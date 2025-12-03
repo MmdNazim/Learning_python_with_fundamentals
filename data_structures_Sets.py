@@ -165,3 +165,12 @@ print(value)
 
 ➡ symmetric_difference() = Unique from both sides (A’s uniques + B’s uniques)
 """
+
+"""
+✅ What is “Disjoint” in Sets?
+
+Two sets are disjoint when:
+
+👉 They have NO common elements at all.
+👉 Their intersection is empty { }.
+"""
