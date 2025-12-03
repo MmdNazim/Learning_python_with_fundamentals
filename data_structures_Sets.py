@@ -152,3 +152,16 @@ print(value)
 
 #sets use case:
 #-unique value niye kaj kre.
+
+#Important NOTE:
+"""
+✅ 1. difference(): What is in Set A but NOT in Set B.
+
+✅ 2. symmetric_difference(): What is NOT common between A and B. Everything that is unique to each set.
+
+👍 Best Way to Remember:
+
+➡ difference() = Only my items (A’s unique items)
+
+➡ symmetric_difference() = Unique from both sides (A’s uniques + B’s uniques)
+"""
