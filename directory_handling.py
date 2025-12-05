@@ -63,8 +63,8 @@ print("done")
 """
 import os 
 fileList = os.listdir("new")
-for fileName in fileList:
-   print(fileName)
+for file_name in fileList:
+   print(file_name)
 """
 
 
