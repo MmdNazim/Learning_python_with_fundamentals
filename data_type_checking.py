@@ -1,6 +1,6 @@
                                #||Data_Type_Check||
 name = "Nazim"
-age = 25
+age = 27
 isBangladeshi = True
 f = 0.02
 c = 1+2j
