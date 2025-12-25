@@ -129,6 +129,49 @@ print(unique_numbers2)
 
 
 
+                                                         #||New starta variable(11-11-25)||
+# variables store data values.
+# python is dynamically type.
+# you don't need to declare a variable type explicitly.
+
+# a = 30
+# b = 20
+ 
+# sum = a + b
+# print(sum) 
+
+"""
+#Checking data types:
+a = 10
+b = 2.3
+c = 1 + 2j
+d = "Nazim"
+e = ['a', 'b', 'c']
+f = (1, 2, 3, 4)
+g = range(1,10)
+h = {'name' : 'Nazim', 'age' : 22}
+i = {1, 2, 3, 4}
+j = frozenset([1, 2, 3, 4])
+k = None
+l = True
+
+check = type(j)
+print(check)
+"""
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
