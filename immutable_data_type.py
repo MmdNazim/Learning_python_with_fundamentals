@@ -1,6 +1,6 @@
                                         #||Immutable_Data_Type||
 """
-#Integer_Example:
+#Integer Example:
 a = 2
 first_location = id(a)  #eikhane memory r location trace krar jonno "id" namer method ta use kra hyeche.And tar majhe object ta pass kra hyche.
 a = 3
@@ -15,7 +15,7 @@ print(third_location)
 """
 
 """
-#Floating_point_numbers_Example:
+#Floating point numbers Example:
 a = 3.1416
 first_location = id(a)
 a = 9.8
@@ -26,7 +26,7 @@ print(second_location)
 """
 
 """
-#String_Example:
+#String Example:
 a = "hello"
 first_location = id(a)
 a = "nazim"
@@ -37,7 +37,7 @@ print(second_location)
 """
 
 """
-#Tupels_Example:
+#Tupels Example:
 a = (1, 2, 3)
 first_location = id(a)
 a = (1,2,3,4)
@@ -47,7 +47,7 @@ print(first_location)
 print(second_location)
 """
 
-#Frozenset_Example:
+#Frozenset Example:
 a = frozenset([1,2,3,4])
 first_location = id(a)
 a = frozenset([1,2,3,4,5,6])
