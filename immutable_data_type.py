@@ -2,11 +2,11 @@
 """
 #Integer Example:
 a = 2
-first_location = id(a)  #eikhane memory r location trace krar jonno "id" namer method ta use kra hyeche.And tar majhe object ta pass kra hyche.
+first_location = id(a)  #eikhane memoryer location trace krar jonno "id" namer method ta use kra hyeche.And tar majhe object ta pass kra hyche.
 a = 3
 second_location = id(a)
 a = 5
-#Note: eikhane "a" er value different different asign kra hyeche tar mane ei na je "a" er value ekta baad hye arekta add hyeche. eikhane memory te "a" er value gula different different location create kreche.
+#Note: eikhane "a" er value different different assign kra hyeche tar mane ei na je "a" er value ekta baad hye arekta add hyeche. eikhane memory te "a" er value gula different different location create kreche.
 third_location = id(a)
 
 print(first_location)
