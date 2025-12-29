@@ -1,4 +1,4 @@
-#Basic arithmetic operation:
+#Basic Arithmetic operation:
 a = 10
 b = 3
 c = 4.33
