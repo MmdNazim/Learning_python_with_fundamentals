@@ -313,72 +313,10 @@ while index < len(my_list) :
 
 
 
-#------------------------------------------OSTAD--------------------------------------OSTAD----------------------------------OSTAD----------------------------------------------OSTAD--------------------------------------------
-
-#NOTE: amra shadharonoto jani na je koto bar loop ta ghurbe and jdi indexing er drkar pore tokhn amra ei "while loop" ta use kri.
-
-# Example-1:
-"""
-a = [1,2,3,4,5]
-result = 0
-
-i = 0
-n = len(a)
-
-while i<n:  #[0<5, 1<5, 2<5, 3<5, 4<5]
-    result = result + a[i]   #[0+1, 1+2, 3+3, 6+4, 10+5]
-    i += 1
-
-print(result)
-"""
-
-
-# Example-2:
-"""
-a = [-10,2, 19, -3,-5]    #[expected output: 0,2,19,0,0]
-
-i = 0
-while i<len(a):
-    if a[i] < 0:
-        a[i] = 0
-    i += 1
-print(a)
-"""
 
 
 
 
-#conditional_statement:
-#[ekta equal mane holo assignment operator]
-rain = 1
-#[duita equal mane holo comparison operator]
-print(10 == 10)
-
-
-if rain == 11:
-    print("ajke school e jabo na")
-else:
-    print("ajke school e jabo")
-
-
-
-#[ekta number pos, neg, ar 0 kina check krbo]
-a = 10
-#check eita positive number kina
-if a > 0:
-    print("eita possitive number")
-# eita positive number jdi na hoy tahole check krte hbe negetive kina
-elif a < 0:
-    print("eita negetive number")
-# eita negetive ar positive duitar ektao na hoile tahole seta obossoi 0 hbe  
-else:
-    print("eita obossoi 0")
-
-
-
-
-
-#break_continue:
 
 
 
